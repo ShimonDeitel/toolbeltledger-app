@@ -1,0 +1,27 @@
+{
+  "identifier" : "ToolbeltLedger",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "TOOLBELTLEDGER_PRO",
+      "localizations" : [
+        {
+          "description" : "Unlock Battery-health degradation charts",
+          "displayName" : "ToolbeltLedger Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.toolbeltledger.pro",
+      "referenceName" : "ToolbeltLedger Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
